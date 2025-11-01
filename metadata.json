@@ -1,0 +1,5 @@
+{
+  "name": "Squid Game Challenge",
+  "description": "A 3D-styled web game application featuring three iconic challenges from Squid Game: Red Light, Green Light, Dalgona, and Tug of War. Test your skills and see if you can survive!",
+  "requestFramePermissions": []
+}
